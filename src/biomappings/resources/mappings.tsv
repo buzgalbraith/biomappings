@@ -10785,3 +10785,285 @@ wikipathways	WP987	Adipogenesis	debio:0000003	go	0060612	adipose tissue developm
 wikipathways	WP987	Adipogenesis	debio:0000003	mesh	D050156	Adipogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 wikipathways	WP994	Oxidative phosphorylation	debio:0000003	go	0006119	oxidative phosphorylation	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 wikipathways	WP999	TCA Cycle	debio:0000003	go	0006099	tricarboxylic acid cycle	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
+mondo	mondo:0018911	maturity-onset diabetes of the young    skos:exactMatch omim.ps	omim.ps:125850	Maturity-onset diabetes of the young	semapv:MappingReview web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0008009	monilethrix skos:exactMatch	omim.ps	omim.ps:158000	Monilethrix	semapv:SemanticSimilarityThresholdMatching	semapv:MappingReview web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.51
+mondo	mondo:1040026	metastatic malignant neoplasm in the brain	skos:exactMatch	ncit	ncit:C3813	Metastatic Malignant Neoplasm in the Brain	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.04
+mondo	mondo:0975754	pseudomyogenic hemangioendothelioma	skos:exactMatch	ncit	ncit:C121668	Pseudomyogenic Hemangioendothelioma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0971056	ocular surface squamous neoplasia	skos:exactMatch	ncit	ncit:C176043	Ocular Surface Squamous Neoplasia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0971143	pleural mesothelioma in situ	skos:exactMatch	ncit	ncit:C183134	Pleural Mesothelioma In Situ	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.79
+mondo	mondo:0031200	Bryant-Li-Bhoj neurodevelopmental syndrome	skos:exactMatch	doid	doid:0051010	Bryant-Li-Bhoj neurodevelopmental syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0030606	Bryant-Li-Bhoj neurodevelopmental syndrome 1	skos:exactMatch	doid	doid:0051011	Bryant-Li-Bhoj neurodevelopmental syndrome 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0030607	Bryant-Li-Bhoj neurodevelopmental syndrome 2	skos:exactMatch	doid	doid:0051012	Bryant-Li-Bhoj neurodevelopmental syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0012911	pseudohypoparathyroidism type 1C	skos:exactMatch	doid	doid:0051013	pseudohypoparathyroidism type 1C	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0976126	neurodevelopmental disorder with microcephaly, absent speech, and hypotonia	skos:exactMatch	doid	doid:0051030	neurodevelopmental disorder with microcephaly, absent speech, and hypotonia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.72
+mondo	mondo:0976230	spondyloepimetaphyseal dysplasia, Li-Shao-Li type	skos:exactMatch	doid	doid:0051046	spondyloepimetaphyseal dysplasia, Li-Shao-Li type	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.93
+mondo	mondo:0014406	pancreatic agenesis 2	skos:exactMatch	doid	doid:0060988	pancreatic agenesis 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0030770	congenital disorder of deglycosylation 2	skos:exactMatch	doid	doid:0060990	congenital disorder of deglycosylation 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.94
+mondo	mondo:0100297	short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies 1	skos:exactMatch	doid	doid:0060989	short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.98
+mondo	mondo:0013815	bent bone dysplasia syndrome 1	skos:exactMatch	doid	doid:0060992	bent bone dysplasia syndrome 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.95
+mondo	mondo:0014905	encephalopathy due to defective mitochondrial and peroxisomal fission 2	skos:exactMatch	doid	doid:0060994	encephalopathy due to defective mitochondrial and peroxisomal fission 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.78
+mondo	mondo:0031376	congenital disorder of deglycosylation	skos:exactMatch	doid	doid:0060991	congenital disorder of deglycosylation	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.96
+mondo	mondo:0859573	bent bone dysplasia syndrome 2	skos:exactMatch	doid	doid:0060993	bent bone dysplasia syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0013224	rhabdoid tumor predisposition syndrome 2	skos:exactMatch	doid	doid:0060997	rhabdoid tumor predisposition syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.79
+mondo	mondo:0024547	pancreatic agenesis 1	skos:exactMatch	doid	doid:0061003	pancreatic agenesis 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0030506	ovarian dysgenesis 9	skos:exactMatch	doid	doid:0061013	ovarian dysgenesis 9	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.82
+mondo	mondo:0958185	mitochondrial trifunctional protein deficiency 2	skos:exactMatch	doid	doid:0060999	mitochondrial trifunctional protein deficiency 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0958192	glycine encephalopathy 2	skos:exactMatch	doid	doid:0061001	glycine encephalopathy 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0011444	Duane retraction syndrome 2	skos:exactMatch	doid	doid:0061028	Duane retraction syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.99
+mondo	mondo:0018660	hemophilia	skos:exactMatch	doid	doid:0061030	hemophilia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
+mondo	mondo:0030302	immunodeficiency 81	skos:exactMatch	doid	doid:0061052	immunodeficiency 81	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.01
+mondo	mondo:0030333	immunodeficiency 84	skos:exactMatch	doid	doid:0061054	immunodeficiency 84	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.01
+mondo	mondo:0030448	immunodeficiency 86	skos:exactMatch	doid	doid:0061056	immunodeficiency 86	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.0
+mondo	mondo:0030736	ovarian dysgenesis 10	skos:exactMatch	doid	doid:0061014	ovarian dysgenesis 10	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0024781	immunodeficiency 102	skos:exactMatch	doid	doid:0061072	immunodeficiency 102	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0030483	immunodeficiency 88	skos:exactMatch	doid	doid:0061058	immunodeficiency 88	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0030498	immunodeficiency 92	skos:exactMatch	doid	doid:0061062	immunodeficiency 92	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.01
+mondo	mondo:0030692	immunodeficiency 95	skos:exactMatch	doid	doid:0061065	immunodeficiency 95	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.01
+mondo	mondo:0030693	immunodeficiency 96	skos:exactMatch	doid	doid:0061066	immunodeficiency 96	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.01
+mondo	mondo:0957535	immunodeficiency 112	skos:exactMatch	doid	doid:0061079	immunodeficiency 112	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0976232	Perrault syndrome 7	skos:exactMatch	doid	doid:0061073	Perrault syndrome 7	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0958011	immunodeficiency 117	skos:exactMatch	doid	doid:0061083	immunodeficiency 117	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0958030	immunodeficiency 118	skos:exactMatch	doid	doid:0061084	immunodeficiency 118	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0970993	immunodeficiency 119	skos:exactMatch	doid	doid:0061085	immunodeficiency 119	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0970994	immunodeficiency 120	skos:exactMatch	doid	doid:0061086	immunodeficiency 120	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0971151	immunodeficiency 122	skos:exactMatch	doid	doid:0061088	immunodeficiency 122	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0975749	immunodeficiency 125	skos:exactMatch	doid	doid:0061091	immunodeficiency 125	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0975832	immunodeficiency 127	skos:exactMatch	doid	doid:0061092	immunodeficiency 127	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0975834	immunodeficiency 128	skos:exactMatch	doid	doid:0061093	immunodeficiency 128	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0014929	retinitis pigmentosa 76	skos:exactMatch	doid	doid:0061103	retinitis pigmentosa 76	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0030619	retinitis pigmentosa 92	skos:exactMatch	doid	doid:0061107	retinitis pigmentosa 92	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0030797	retinitis pigmentosa 93	skos:exactMatch	doid	doid:0061105	retinitis pigmentosa 93	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0044320	retinitis pigmentosa 79	skos:exactMatch	doid	doid:0061108	retinitis pigmentosa 79	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0054708	retinitis pigmentosa 80	skos:exactMatch	doid	doid:0061111	retinitis pigmentosa 80	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0859367	retinitis pigmentosa 96	skos:exactMatch	doid	doid:0061104	retinitis pigmentosa 96	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0957314	retinitis pigmentosa 97	skos:exactMatch	doid	doid:0061110	retinitis pigmentosa 97	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0975840	retinitis pigmentosa 98	skos:exactMatch	doid	doid:0061109	retinitis pigmentosa 98	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0976228	immunodeficiency 132b	skos:exactMatch	doid	doid:0061097	immunodeficiency 132B	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0013972	Perrault syndrome 2	skos:exactMatch	doid	doid:0061117	Perrault syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0020747	sitosterolemia 1	skos:exactMatch	doid	doid:0070634	sitosterolemia 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.82
+mondo	mondo:0044314	retinitis pigmentosa 78	skos:exactMatch	doid	doid:0061113	retinitis pigmentosa 78	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0060760	intellectual developmental disorder with dysmorphic facies and behavioral abnormalities	skos:exactMatch	doid	doid:0061129	intellectual developmental disorder with dysmorphic facies and behavioral abnormalities	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0100292	Carey-Fineman-Ziter syndrome 2	skos:exactMatch	doid	doid:0061116	Carey-Fineman-Ziter syndrome 2	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0859217	Brunet-Wagner neurodevelopmental syndrome	skos:exactMatch	doid	doid:0061126	Brunet-Wagner neurodevelopmental syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.8
+mondo	mondo:0859308	retinitis pigmentosa 95	skos:exactMatch	doid	doid:0061112	retinitis pigmentosa 95	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0958179	glycine encephalopathy 1	skos:exactMatch	doid	doid:0070616	glycine encephalopathy 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0958181	mitochondrial trifunctional protein deficiency 1	skos:exactMatch	doid	doid:0070619	mitochondrial trifunctional protein deficiency 1	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0976229	immunodeficiency 131	skos:exactMatch	doid	doid:0061125	immunodeficiency 131	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0015766	cholera	skos:exactMatch	icd10	icd10:A00	Cholera	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0018076	tuberculosis	skos:exactMatch	icd10	icd10:A15-A19	Tuberculosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0019345	shigellosis	skos:exactMatch	icd10	icd10:A03	Shigellosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0005683	brucellosis	skos:exactMatch	icd10	icd10:A23	Brucellosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.67
+mondo	mondo:0005848	miliary tuberculosis	skos:exactMatch	icd10	icd10:A19	Miliary tuberculosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0019095	plague	skos:exactMatch	icd10	icd10:A20	Plague	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0001737	tetanus neonatorum	skos:exactMatch	icd10	icd10:A33	Tetanus neonatorum	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0005504	diphtheria	skos:exactMatch	icd10	icd10:A36	Diphtheria	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.72
+mondo	mondo:0005825	leptospirosis	skos:exactMatch	icd10	icd10:A27	Leptospirosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0005828	listeriosis	skos:exactMatch	icd10	icd10:A32	Listeriosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0005373	meningococcal infection	skos:exactMatch	icd10	icd10:A39	Meningococcal infection	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0005631	actinomycosis	skos:exactMatch	icd10	icd10:A42	Actinomycosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.67
+mondo	mondo:0005664	bartonellosis	skos:exactMatch	icd10	icd10:A44	Bartonellosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.64
+mondo	mondo:0005952	scarlet fever	skos:exactMatch	icd10	icd10:A38	Scarlet fever	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.7
+mondo	mondo:0017776	nocardiosis	skos:exactMatch	icd10	icd10:A43	Nocardiosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0001266	erysipelas	skos:exactMatch	icd10	icd10:A46	Erysipelas	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0001797	chancroid	skos:exactMatch	icd10	icd10:A57	Chancroid	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.53
+mondo	mondo:0002154	trichomoniasis	skos:exactMatch	icd10	icd10:A59	Trichomoniasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.73
+mondo	mondo:0005714	congenital syphilis	skos:exactMatch	icd10	icd10:A50	Congenital syphilis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0005777	granuloma inguinale	skos:exactMatch	icd10	icd10:A58	Granuloma inguinale	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.6
+mondo	mondo:0006019	yaws	skos:exactMatch	icd10	icd10:A66	Yaws	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0001249	trachoma	skos:exactMatch	icd10	icd10:A71	Trachoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.79
+mondo	mondo:0004651	smallpox	skos:exactMatch	icd10	icd10:B03	Smallpox	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0007015	viral meningitis	skos:exactMatch	icd10	icd10:A87	Viral meningitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0019173	rabies	skos:exactMatch	icd10	icd10:A82	Rabies	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0019186	Q fever	skos:exactMatch	icd10	icd10:A78	Q fever	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.53
+mondo	mondo:0020502	yellow fever	skos:exactMatch	icd10	icd10:A95	Yellow fever	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.53
+mondo	mondo:0020601	mosquito-borne viral encephalitis	skos:exactMatch	icd10	icd10:A83	Mosquito-borne viral encephalitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.8
+mondo	mondo:0002026	candidiasis	skos:exactMatch	icd10	icd10:B37	Candidiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0002594	monkeypox	skos:exactMatch	icd10	icd10:B04	Monkeypox	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0004619	measles	skos:exactMatch	icd10	icd10:B05	Measles	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0004678	dermatophytosis	skos:exactMatch	icd10	icd10:B35	Dermatophytosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.53
+mondo	mondo:0005706	coccidioidomycosis	skos:exactMatch	icd10	icd10:B38	Coccidioidomycosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.67
+mondo	mondo:0005810	infectious mononucleosis	skos:exactMatch	icd10	icd10:B27	Infectious mononucleosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.66
+mondo	mondo:0006011	viral hepatitis	skos:exactMatch	icd10	icd10:B15-B19	Viral hepatitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0043541	viral conjunctivitis	skos:exactMatch	icd10	icd10:B30	Viral conjunctivitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0005657	aspergillosis	skos:exactMatch	icd10	icd10:B44	Aspergillosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0005672	blastomycosis	skos:exactMatch	icd10	icd10:B40	Blastomycosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.64
+mondo	mondo:0005724	cryptococcosis	skos:exactMatch	icd10	icd10:B45	Cryptococcosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.67
+mondo	mondo:0005894	paracoccidioidomycosis	skos:exactMatch	icd10	icd10:B41	Paracoccidioidomycosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.64
+mondo	mondo:0005920	Plasmodium falciparum malaria	skos:exactMatch	icd10	icd10:B50	Plasmodium falciparum malaria	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.68
+mondo	mondo:0005968	sporotrichosis	skos:exactMatch	icd10	icd10:B42	Sporotrichosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0016823	mycetoma	skos:exactMatch	icd10	icd10:B47	Mycetoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0018312	histoplasmosis	skos:exactMatch	icd10	icd10:B39	Histoplasmosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0019136	Zygomycosis	skos:exactMatch	icd10	icd10:B46	Zygomycosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.58
+mondo	mondo:0000367	taeniasis	skos:exactMatch	icd10	icd10:B68	Taeniasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0001444	Chagas disease	skos:exactMatch	icd10	icd10:B57	Chagas disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.94
+mondo	mondo:0001943	Plasmodium malariae malaria	skos:exactMatch	icd10	icd10:B52	Plasmodium malariae malaria	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.68
+mondo	mondo:0005738	echinococcosis	skos:exactMatch	icd10	icd10:B67	Echinococcosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.6
+mondo	mondo:0005921	Plasmodium vivax malaria	skos:exactMatch	icd10	icd10:B51	Plasmodium vivax malaria	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.88
+mondo	mondo:0005989	toxoplasmosis	skos:exactMatch	icd10	icd10:B58	Toxoplasmosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.69
+mondo	mondo:0011989	leishmaniasis	skos:exactMatch	icd10	icd10:B55	Leishmaniasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0015484	cysticercosis	skos:exactMatch	icd10	icd10:B69	Cysticercosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0016472	dracunculiasis	skos:exactMatch	icd10	icd10:B72	Dracunculiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0017137	onchocerciasis	skos:exactMatch	icd10	icd10:B73	Onchocerciasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.63
+mondo	mondo:0004525	scabies	skos:exactMatch	icd10	icd10:B86	Scabies	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0005654	ascariasis	skos:exactMatch	icd10	icd10:B77	Ascariasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0005746	enterobiasis	skos:exactMatch	icd10	icd10:B80	Enterobiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.7
+mondo	mondo:0005974	strongyloidiasis	skos:exactMatch	icd10	icd10:B78	Strongyloidiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0005996	trichuriasis	skos:exactMatch	icd10	icd10:B79	Trichuriasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0016075	filariasis	skos:exactMatch	icd10	icd10:B74	Filariasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.6
+mondo	mondo:0018906	follicular lymphoma	skos:exactMatch	icd10	icd10:C82	Follicular lymphoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.73
+mondo	mondo:0019147	myiasis	skos:exactMatch	icd10	icd10:B87	Myiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.52
+mondo	mondo:0019444	trichinellosis	skos:exactMatch	icd10	icd10:B75	Trichinellosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0021527	benign neoplasm of meninges	skos:exactMatch	icd10	icd10:D32	Benign neoplasm of meninges	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0044983	benign lipomatous neoplasm	skos:exactMatch	icd10	icd10:D17	Benign lipomatous neoplasm	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0001220	hypoparathyroidism	skos:exactMatch	icd10	icd10:E20	Hypoparathyroidism	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.58
+mondo	mondo:0001889	ovarian dysfunction	skos:exactMatch	icd10	icd10:E28	Ovarian dysfunction	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0003009	hyperaldosteronism	skos:exactMatch	icd10	icd10:E26	Hyperaldosteronism	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0004126	thyroiditis	skos:exactMatch	icd10	icd10:E06	Thyroiditis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0005015	diabetes mellitus	skos:exactMatch	icd10	icd10:E10-E14	Diabetes mellitus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.52
+mondo	mondo:0005147	type 1 diabetes mellitus	skos:exactMatch	icd10	icd10:E10	Type 1 diabetes mellitus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0005148	type 2 diabetes mellitus	skos:exactMatch	icd10	icd10:E11	Type 2 diabetes mellitus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0006826	kwashiorkor	skos:exactMatch	icd10	icd10:E40	Kwashiorkor	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0007016	vitamin A deficiency	skos:exactMatch	icd10	icd10:E50	Vitamin A deficiency	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0015517	common variable immunodeficiency	skos:exactMatch	icd10	icd10:D83	Common variable immunodeficiency	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0018912	Cushing syndrome	skos:exactMatch	icd10	icd10:E24	Cushing syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0019338	sarcoidosis	skos:exactMatch	icd10	icd10:D86	Sarcoidosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0004648	vascular dementia	skos:exactMatch	icd10	icd10:F01	Vascular dementia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.52
+mondo	mondo:0004975	Alzheimer disease	skos:exactMatch	icd10	icd10:G30	Alzheimer disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0005090	schizophrenia	skos:exactMatch	icd10	icd10:F20	Schizophrenia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.58
+mondo	mondo:0005180	Parkinson disease	skos:exactMatch	icd10	icd10:G20	Parkinson disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.69
+mondo	mondo:0005301	multiple sclerosis	skos:exactMatch	icd10	icd10:G35	Multiple sclerosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.93
+mondo	mondo:0006497	cerebral palsy	skos:exactMatch	icd10	icd10:G80	Cerebral palsy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0007739	Huntington disease	skos:exactMatch	icd10	icd10:G10	Huntington disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0008114	obsessive-compulsive disorder	skos:exactMatch	icd10	icd10:F42	Obsessive-compulsive disorder	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0009061	cystic fibrosis	skos:exactMatch	icd10	icd10:E84	Cystic fibrosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0019065	amyloidosis	skos:exactMatch	icd10	icd10:E85	Amyloidosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0100309	hereditary ataxia	skos:exactMatch	icd10	icd10:G11	Hereditary ataxia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.51
+mondo	mondo:0100345	lactose intolerance	skos:exactMatch	icd10	icd10:E73	Lactose intolerance	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0100471	vitamin D deficiency	skos:exactMatch	icd10	icd10:E55	Vitamin D deficiency	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0001143	paralytic strabismus	skos:exactMatch	icd10	icd10:H49	Paralytic strabismus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0001150	hydrocephalus	skos:exactMatch	icd10	icd10:G91	Hydrocephalus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
+mondo	mondo:0001170	hemiplegia	skos:exactMatch	icd10	icd10:G81	Hemiplegia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0003085	keratitis	skos:exactMatch	icd10	icd10:H16	Keratitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0003799	conjunctivitis	skos:exactMatch	icd10	icd10:H10	Conjunctivitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.63
+mondo	mondo:0004773	iridocyclitis	skos:exactMatch	icd10	icd10:H20	Iridocyclitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0004795	otitis externa	skos:exactMatch	icd10	icd10:H60	Otitis externa	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:0004847	senile cataract	skos:exactMatch	icd10	icd10:H25	Senile cataract	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0005041	glaucoma	skos:exactMatch	icd10	icd10:H40	Glaucoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0005041	glaucoma	skos:exactMatch	icd10	icd10:H40-H42	Glaucoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.68
+mondo	mondo:0005527	toxic encephalopathy	skos:exactMatch	icd10	icd10:G92	Toxic encephalopathy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.7
+mondo	mondo:0005885	optic neuritis	skos:exactMatch	icd10	icd10:H46	Optic neuritis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0006533	cholesteatoma of middle ear	skos:exactMatch	icd10	icd10:H71	Cholesteatoma of middle ear	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.69
+mondo	mondo:0000745	cardiac arrest	skos:exactMatch	icd10	icd10:I46	Cardiac arrest	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0001200	secondary hypertension	skos:exactMatch	icd10	icd10:I15	Secondary hypertension	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.96
+mondo	mondo:0001302	hypertensive heart disease	skos:exactMatch	icd10	icd10:I11	Hypertensive heart disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.71
+mondo	mondo:0001339	portal vein thrombosis	skos:exactMatch	icd10	icd10:I81	Portal vein thrombosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.73
+mondo	mondo:0002679	cerebral infarction	skos:exactMatch	icd10	icd10:I63	Cerebral infarction	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0002815	acute myocarditis	skos:exactMatch	icd10	icd10:I40	Acute myocarditis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0004781	acute myocardial infarction	skos:exactMatch	icd10	icd10:I21	Acute myocardial infarction	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0004994	cardiomyopathy	skos:exactMatch	icd10	icd10:I42	Cardiomyopathy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.71
+mondo	mondo:0005252	heart failure	skos:exactMatch	icd10	icd10:I50	Heart failure	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0005279	pulmonary embolism	skos:exactMatch	icd10	icd10:I26	Pulmonary embolism	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0005311	atherosclerosis	skos:exactMatch	icd10	icd10:I70	Atherosclerosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0005349	otosclerosis	skos:exactMatch	icd10	icd10:H80	Otosclerosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0020600	acute pharyngitis	skos:exactMatch	icd10	icd10:J02	Acute pharyngitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0020686	acute tonsillitis	skos:exactMatch	icd10	icd10:J03	Acute tonsillitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0001126	gastric ulcer	skos:exactMatch	icd10	icd10:K25	Gastric ulcer	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.62
+mondo	mondo:0001155	gastrojejunal ulcer	skos:exactMatch	icd10	icd10:K28	Gastrojejunal ulcer	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0002076	pneumothorax	skos:exactMatch	icd10	icd10:J93	Pneumothorax	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.0
+mondo	mondo:0002155	cholecystitis	skos:exactMatch	icd10	icd10:K81	Cholecystitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0004766	status asthmaticus	skos:exactMatch	icd10	icd10:J46	Status asthmaticus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0004822	bronchiectasis	skos:exactMatch	icd10	icd10:J47	Bronchiectasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.82
+mondo	mondo:0004979	asthma	skos:exactMatch	icd10	icd10:J45	Asthma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.7
+mondo	mondo:0005052	irritable bowel syndrome	skos:exactMatch	icd10	icd10:K58	Irritable bowel syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0005101	ulcerative colitis	skos:exactMatch	icd10	icd10:K51	Ulcerative colitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.76
+mondo	mondo:0005276	dental caries	skos:exactMatch	icd10	icd10:K02	Dental caries	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.72
+mondo	mondo:0005412	duodenal ulcer	skos:exactMatch	icd10	icd10:K26	Duodenal ulcer	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.69
+mondo	mondo:0005906	peritonsillar abscess	skos:exactMatch	icd10	icd10:J36	Peritonsillar abscess	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0012672	cholelithiasis	skos:exactMatch	icd10	icd10:K80	Cholelithiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0020680	acute bronchiolitis	skos:exactMatch	icd10	icd10:J21	Acute bronchiolitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.59
+mondo	mondo:1010128	peritonitis	skos:exactMatch	icd10	icd10:K65	Peritonitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.6
+mondo	mondo:0004592	impetigo	skos:exactMatch	icd10	icd10:L01	Impetigo	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0005083	psoriasis	skos:exactMatch	icd10	icd10:L40	Psoriasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0005230	cellulitis	skos:exactMatch	icd10	icd10:L03	Cellulitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0005326	sunburn	skos:exactMatch	icd10	icd10:L55	Sunburn	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.87
+mondo	mondo:0005492	urticaria	skos:exactMatch	icd10	icd10:L50	Urticaria	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0006515	acute pancreatitis	skos:exactMatch	icd10	icd10:K85	Acute pancreatitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0006525	allergic contact dermatitis	skos:exactMatch	icd10	icd10:L23	Allergic contact dermatitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0006545	erythema multiforme	skos:exactMatch	icd10	icd10:L51	Erythema multiforme	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.67
+mondo	mondo:0006572	lichen planus	skos:exactMatch	icd10	icd10:L43	Lichen planus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.78
+mondo	mondo:0006592	parapsoriasis	skos:exactMatch	icd10	icd10:L41	Parapsoriasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0006594	pemphigus	skos:exactMatch	icd10	icd10:L10	Pemphigus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.82
+mondo	mondo:0006601	pityriasis rosea	skos:exactMatch	icd10	icd10:L42	Pityriasis rosea	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0018181	staphylococcal scalded skin syndrome	skos:exactMatch	icd10	icd10:L00	Staphylococcal scalded skin syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.64
+mondo	mondo:0043233	exfoliative dermatitis	skos:exactMatch	icd10	icd10:L26	Exfoliative dermatitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0850231	erythema nodosum	skos:exactMatch	icd10	icd10:L52	Erythema nodosum	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0850301	pemphigoid	skos:exactMatch	icd10	icd10:L12	Pemphigoid	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.8
+mondo	mondo:0002253	spondylosis	skos:exactMatch	icd10	icd10:M47	Spondylosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0004670	lupus erythematosus	skos:exactMatch	icd10	icd10:L93	Lupus erythematosus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0005100	systemic sclerosis	skos:exactMatch	icd10	icd10:M34	Systemic sclerosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0005246	osteomyelitis	skos:exactMatch	icd10	icd10:M86	Osteomyelitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0005306	ankylosing spondylitis	skos:exactMatch	icd10	icd10:M45	Ankylosing spondylitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.58
+mondo	mondo:0005340	alopecia areata	skos:exactMatch	icd10	icd10:L63	Alopecia areata	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0005377	nephrotic syndrome	skos:exactMatch	icd10	icd10:N04	Nephrotic syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.78
+mondo	mondo:0005380	osteonecrosis	skos:exactMatch	icd10	icd10:M87	Osteonecrosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0005392	scoliosis	skos:exactMatch	icd10	icd10:M41	Scoliosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0006604	rosacea	skos:exactMatch	icd10	icd10:L71	Rosacea	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0007035	acanthosis nigricans	skos:exactMatch	icd10	icd10:L83	Acanthosis nigricans	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0007915	systemic lupus erythematosus	skos:exactMatch	icd10	icd10:M32	Systemic lupus erythematosus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0008661	vitiligo	skos:exactMatch	icd10	icd10:L80	Vitiligo	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0011438	acne	skos:exactMatch	icd10	icd10:L70	Acne	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.55
+mondo	mondo:0018824	pyoderma gangrenosum	skos:exactMatch	icd10	icd10:L88	Pyoderma gangrenosum	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0019280	hypertrichosis	skos:exactMatch	icd10	icd10:L68	Hypertrichosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0043771	radiodermatitis	skos:exactMatch	icd10	icd10:L58	Radiodermatitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0000755	ectopic pregnancy	skos:exactMatch	icd10	icd10:O00	Ectopic pregnancy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.5
+mondo	mondo:0001100	hypertrophy of breast	skos:exactMatch	icd10	icd10:N62	Hypertrophy of breast	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.71
+mondo	mondo:0001149	microcephaly	skos:exactMatch	icd10	icd10:Q02	Microcephaly	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0001754	eclampsia	skos:exactMatch	icd10	icd10:O15	Eclampsia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.72
+mondo	mondo:0002127	urethral stricture	skos:exactMatch	icd10	icd10:N35	Urethral stricture	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0004585	polyhydramnios	skos:exactMatch	icd10	icd10:O40	Polyhydramnios	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0004808	benign mammary dysplasia	skos:exactMatch	icd10	icd10:N60	Benign mammary dysplasia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.9
+mondo	mondo:0005133	endometriosis	skos:exactMatch	icd10	icd10:N80	Endometriosis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0005300	chronic kidney disease	skos:exactMatch	icd10	icd10:N18	Chronic kidney disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.61
+mondo	mondo:0005372	male infertility	skos:exactMatch	icd10	icd10:N46	Male infertility	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0005918	placenta praevia	skos:exactMatch	icd10	icd10:O44	Placenta praevia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0006032	cystitis	skos:exactMatch	icd10	icd10:N30	Cystitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.54
+mondo	mondo:0006248	hydatidiform mole	skos:exactMatch	icd10	icd10:O01	Hydatidiform mole	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.52
+mondo	mondo:0008449	spina bifida	skos:exactMatch	icd10	icd10:Q05	Spina bifida	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.66
+mondo	mondo:0008608	Down syndrome	skos:exactMatch	icd10	icd10:Q90	Down syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.5
+mondo	mondo:0016349	congenital hydrocephalus	skos:exactMatch	icd10	icd10:Q03	Congenital hydrocephalus	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.56
+mondo	mondo:0021124	female infertility	skos:exactMatch	icd10	icd10:N97	Female infertility	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.89
+mondo	mondo:0024647	urolithiasis	skos:exactMatch	icd10	icd10:N20-N23	Urolithiasis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.6
+mondo	mondo:0016064	cleft palate	skos:exactMatch	icd10	icd10:Q35	Cleft palate	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.65
+mondo	mondo:0004747	cleft lip	skos:exactMatch	icd10	icd10:Q36	Cleft lip	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.53
+mondo	mondo:0002473	cystic kidney disease	skos:exactMatch	icd10	icd10:Q61	Cystic kidney disease	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.57
+mondo	mondo:0021003	polydactyly	skos:exactMatch	icd10	icd10:Q69	Polydactyly	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.5
+mondo	mondo:0006541	epidermolysis bullosa	skos:exactMatch	icd10	icd10:Q81	Epidermolysis bullosa	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.5
+mondo	mondo:0019499	Turner syndrome	skos:exactMatch	icd10	icd10:Q96	Turner syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.52
+mondo	mondo:0800177	frostbite	skos:exactMatch	icd10	icd10:T33-T35	Frostbite	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.5
+mondo	mondo:0975759	acquired elastotic haemangioma	skos:exactMatch	icd11	icd11:1009548311	Acquired elastotic haemangioma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0001548	hepatic coma	skos:exactMatch	icd11	icd11:1021642894	Hepatic coma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0971063	autosomal dominant dopa-responsive dystonia	skos:exactMatch	icd11	icd11:1143673207	Autosomal dominant dopa-responsive dystonia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.74
+mondo	mondo:0017987	syringomyelia	skos:exactMatch	icd11	icd11:1161887622	Syringomyelia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:1050000	sycosis barbae	skos:exactMatch	icd11	icd11:1245506993	Sycosis barbae	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0021495	benign neoplasm of sublingual gland	skos:exactMatch	icd11	icd11:1267377894	Benign neoplasm of sublingual gland	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.94
+mondo	mondo:0971127	diffuse unilateral subacute neuroretinitis	skos:exactMatch	icd11	icd11:1362820694	Diffuse unilateral subacute neuroretinitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.81
+mondo	mondo:0021400	polyp of colon	skos:exactMatch	icd11	icd11:1408488915	Polyp of colon	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
+mondo	mondo:0971058	verruga peruana	skos:exactMatch	icd11	icd11:1480386521	Verruga peruana	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.7
+mondo	mondo:0005220	collecting duct carcinoma	skos:exactMatch	icd11	icd11:1481495173	Collecting duct carcinoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0975758	microvenular haemangioma	skos:exactMatch	icd11	icd11:1766508726	Microvenular haemangioma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0971128	multiple evanescent white dot syndrome	skos:exactMatch	icd11	icd11:1817745681	Multiple Evanescent White Dot Syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.82
+mondo	mondo:0017048	pseudomyxoma peritonei	skos:exactMatch	icd11	icd11:1849365560	Pseudomyxoma peritonei	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.77
+mondo	mondo:0021398	polyp of rectum	skos:exactMatch	icd11	icd11:2101432719	Polyp of rectum	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0003438	combined small cell lung carcinoma	skos:exactMatch	icd11	icd11:392248394	Combined small cell lung carcinoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.92
+mondo	mondo:1030009	persistent atrial fibrillation	skos:exactMatch	icd11	icd11:519924384	Persistent atrial fibrillation	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:0975755	eccrine angiomatous hamartoma	skos:exactMatch	icd11	icd11:541084000	Eccrine angiomatous hamartoma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.75
+mondo	mondo:0971107	common arterial trunk with aortic dominance	skos:exactMatch	icd11	icd11:551770382	Common arterial trunk with aortic dominance	semapv:MappingReview    web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.95
+mondo	mondo:1010089	hypomyopathic dermatomyositis	skos:exactMatch	icd11	icd11:619606071	Hypomyopathic dermatomyositis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.84
+mondo	mondo:1030008	mitral valve insufficiency	skos:exactMatch	icd11	icd11:637470326	Mitral valve insufficiency	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
+mondo	mondo:1040007	hemihydranencephaly	skos:exactMatch	icd11	icd11:642941159	Hemihydranencephaly	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
+mondo	mondo:0018486	visual snow syndrome	skos:exactMatch	icd11	icd11:806322116	Visual snow syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.93
+mondo	mondo:0006806	intermediate uveitis	skos:exactMatch	icd11	icd11:892860325	Intermediate uveitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0001475	neutropenia	skos:exactMatch	icd11	icd11:926492960	Neutropenia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
+mondo	mondo:0700335	familial isolated dilated cardiomyopathy	skos:exactMatch	icd11	icd11:949016860	Familial isolated dilated cardiomyopathy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.07
+mondo	mondo:0971108	common arterial trunk with pulmonary dominance and interrupted aortic arch	skos:exactMatch	icd11	icd11:97579611	Common arterial trunk with pulmonary dominance and interrupted aortic arch	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
+
