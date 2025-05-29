@@ -10785,8 +10785,8 @@ wikipathways	WP987	Adipogenesis	debio:0000003	go	0060612	adipose tissue developm
 wikipathways	WP987	Adipogenesis	debio:0000003	mesh	D050156	Adipogenesis	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 wikipathways	WP994	Oxidative phosphorylation	debio:0000003	go	0006119	oxidative phosphorylation	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
 wikipathways	WP999	TCA Cycle	debio:0000003	go	0006099	tricarboxylic acid cycle	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370			
-mondo	mondo:0018911	maturity-onset diabetes of the young    skos:exactMatch omim.ps	omim.ps:125850	Maturity-onset diabetes of the young	semapv:MappingReview web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
-mondo	mondo:0008009	monilethrix skos:exactMatch	omim.ps	omim.ps:158000	Monilethrix	semapv:SemanticSimilarityThresholdMatching	semapv:MappingReview web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.51
+mondo	mondo:0018911	maturity-onset diabetes of the young	skos:exactMatch	omim.ps	omim.ps:125850	Maturity-onset diabetes of the young	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0008009	monilethrix	skos:exactMatch	omim.ps	omim.ps:158000	Monilethrix	semapv:SemanticSimilarityThresholdMatching	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.51
 mondo	mondo:1040026	metastatic malignant neoplasm in the brain	skos:exactMatch	ncit	ncit:C3813	Metastatic Malignant Neoplasm in the Brain	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.04
 mondo	mondo:0975754	pseudomyogenic hemangioendothelioma	skos:exactMatch	ncit	ncit:C121668	Pseudomyogenic Hemangioendothelioma	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
 mondo	mondo:0971056	ocular surface squamous neoplasia	skos:exactMatch	ncit	ncit:C176043	Ocular Surface Squamous Neoplasia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.83
@@ -11062,8 +11062,7 @@ mondo	mondo:1010089	hypomyopathic dermatomyositis	skos:exactMatch	icd11	icd11:61
 mondo	mondo:1030008	mitral valve insufficiency	skos:exactMatch	icd11	icd11:637470326	Mitral valve insufficiency	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
 mondo	mondo:1040007	hemihydranencephaly	skos:exactMatch	icd11	icd11:642941159	Hemihydranencephaly	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.86
 mondo	mondo:0018486	visual snow syndrome	skos:exactMatch	icd11	icd11:806322116	Visual snow syndrome	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.93
-mondo	mondo:0006806	intermediate uveitis	skos:exactMatch	icd11	icd11:892860325	Intermediate uveitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
+mondo	mondo:0006806	intermediate uveitis	skos:exactMatch	icd11	icd11:892860325 Intermediate uveitis	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.85
 mondo	mondo:0001475	neutropenia	skos:exactMatch	icd11	icd11:926492960	Neutropenia	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.91
 mondo	mondo:0700335	familial isolated dilated cardiomyopathy	skos:exactMatch	icd11	icd11:949016860	Familial isolated dilated cardiomyopathy	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	1.07
 mondo	mondo:0971108	common arterial trunk with pulmonary dominance and interrupted aortic arch	skos:exactMatch	icd11	icd11:97579611	Common arterial trunk with pulmonary dominance and interrupted aortic arch	semapv:MappingReview	web-buzgalbraith	semapv:SemanticSimilarityThresholdMatching	logmap	0.97
-
