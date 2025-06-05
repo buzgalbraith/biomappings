@@ -26,7 +26,7 @@ def format_curie_for_mondo(curie):
     return f"{PREFIX_MAP[curie.prefix]}:{curie.identifier.split(':')[-1]}"
 
 
-def add_xref(lines, mapping):
+def add_xref(lines, mapping, orcids: list = []):
     """Add xref to OBO file lines in the appropriate place."""
     look_for_xref = False
     start_xref_idx = None
@@ -34,8 +34,12 @@ def add_xref(lines, mapping):
     name_idx = None
     xref_entries = []
 
-    node = format_curie_for_mondo(f"{mapping['source prefix']}:{mapping['source identifier']}")
-    xref = format_curie_for_mondo(f"{mapping['target prefix']}:{mapping['target identifier']}")
+    node = format_curie_for_mondo(
+        f"{mapping['source prefix']}:{mapping['source identifier']}"
+    )
+    xref = format_curie_for_mondo(
+        f"{mapping['target prefix']}:{mapping['target identifier']}"
+    )
 
     for idx, line in enumerate(lines):
         # If this is the block for the given node, we start looking for xrefs
@@ -68,24 +72,33 @@ def add_xref(lines, mapping):
                     start_xref_idx = name_idx + 1
                 break
 
+    ## format sources and any orcids
+    sources = ['"MONDO:equivalentTo"'] + [f'"{x}"' for x in orcids]
+    source_str = ", source=".join(sources)
+
     # make sure the xref is not already present MODNO and if so add
     xref_classes = [c.split()[0] for c in xref_entries]
     if xref not in xref_classes:
         xref_entries.append(xref)
         xref_entries = sorted(xref_entries)
         xr_idx = xref_entries.index(xref)
-        lines.insert(start_xref_idx + xr_idx, f'xref: {xref} {{source="MONDO:equivalentTo"}}\n')
+        lines.insert(start_xref_idx + xr_idx, f"xref: {xref} {{source={source_str}}}\n")
     return lines
 
 
 if __name__ == "__main__":
     mappings = load_mappings()
     mondo_mappings = [m for m in mappings if m["source prefix"] == "mondo"]
+    ## specify any ORCIDs of contributors for provenance
+    orcids = [
+        "https://orcid.org/0000-0002-7941-5545",
+        "https://orcid.org/0000-0001-9439-5346",
+    ]
     with open(EDITABLE_OBO_PATH) as fh:
         lines = fh.readlines()
 
     for mapping in mondo_mappings:
-        lines = add_xref(lines, mapping)
+        lines = add_xref(lines, mapping, orcids)
 
     with open(EDITABLE_OBO_PATH, "w") as fh:
         fh.writelines(lines)
