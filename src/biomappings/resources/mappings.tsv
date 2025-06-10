@@ -9321,7 +9321,6 @@ mondo	0005594	severe cutaneous adverse reaction	skos:exactMatch	mesh	D002921	Cic
 mondo	0005607	chronic bronchitis	skos:exactMatch	mesh	D029481	Bronchitis, Chronic	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0006033	diffuse intrinsic pontine glioma	skos:exactMatch	mesh	D000080443	Diffuse Intrinsic Pontine Glioma	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0006094	Askin tumor	skos:exactMatch	mesh	C563168	Askin Tumor	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
-mondo	0006209	fibroblastic neoplasm	skos:narrowMatch	mesh	D005354	Fibrosarcoma	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761	semapv:LexicalMatching	generate_mondo_mesh_mappings.py	0.9
 mondo	0007082	alopecia areata 1	skos:exactMatch	mesh	C566303	Alopecia Areata 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0007088	Alzheimer disease type 1	skos:exactMatch	mesh	C536594	Alzheimer disease type 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0007110	Diamond-Blackfan anemia 1	skos:exactMatch	mesh	C567302	Diamond-Blackfan Anemia 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
@@ -9384,7 +9383,6 @@ mondo	0010644	proteinuria, low molecular weight, with hypercalciuria and nephroc
 mondo	0010693	nystagmus 1, congenital, X-linked	skos:exactMatch	mesh	C537853	Nystagmus 1, congenital, X- linked	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0010717	pyruvate dehydrogenase E1-alpha deficiency	skos:exactMatch	mesh	C564071	Pyruvate Dehydrogenase E1 Alpha Deficiency	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0010743	thrombocytopenia 1	skos:exactMatch	mesh	C564052	Thrombocytopenia 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
-mondo	0010760	XH antigen	skos:exactMatch	mesh	C009691	Xh antigen	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0011042	Martinez-Frias syndrome	skos:exactMatch	mesh	C563346	Martinez-Frias Syndrome	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0011120	neural tube defects, folate-sensitive	skos:exactMatch	mesh	C536409	Neural tube defect, folate-sensitive	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0011232	migraine, familial hemiplegic, 2	skos:exactMatch	mesh	C537246	Hemiplegic migraine, familial type 2	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761	semapv:LexicalMatching	generate_mondo_mesh_mappings.py	0.9
@@ -9499,7 +9497,6 @@ mondo	0041161	endometrial hyperplasia	skos:exactMatch	mesh	D004714	Endometrial H
 mondo	0041656	ST-elevation myocardial infarction	skos:exactMatch	mesh	D000072657	ST Elevation Myocardial Infarction	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0041751	multibacillary leprosy	skos:exactMatch	mesh	D056006	Leprosy, Multibacillary	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0041752	paucibacillary leprosy	skos:exactMatch	mesh	D056005	Leprosy, Paucibacillary	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
-mondo	0044746	zoonotic bacterial infection	skos:exactMatch	mesh	D000086966	Bacterial Zoonoses	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761	semapv:LexicalMatching	generate_mondo_mesh_mappings.py	0.9
 mondo	0044877	paraneoplastic cerebellar degeneration	skos:exactMatch	mesh	D020362	Paraneoplastic Cerebellar Degeneration	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0054868	meconium ileus	skos:exactMatch	mesh	D000074270	Meconium Ileus	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
 mondo	0100053	anaphylaxis	skos:exactMatch	mesh	D000707	Anaphylaxis	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346			
