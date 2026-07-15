@@ -10115,6 +10115,7 @@ mesh:D066293	Renshaw Cells	skos:exactMatch	ncit:C33463	Renshaw Cell	semapv:Manua
 modalia:License	license	skos:exactMatch	vivo:License	License	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				2026-04-12
 modalia:Researcher	researcher	skos:exactMatch	t4fs:0000220	researcher	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				2026-04-12
 modalia:hasTranslation	has translation	skos:exactMatch	vivo:hasTranslation	has translation	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				2026-04-12
+mondo:0000014	colorblindness, partial	skos:exactMatch	mesh:C564440	Colorblindness, Partial Tritanomaly	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0000158	developmental dysplasia of the hip	skos:exactMatch	mesh:D000082602	Developmental Dysplasia of the Hip	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0000239	adiaspiromycosis	skos:exactMatch	mesh:C000656784	adiaspiromycosis	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0000242	tinea barbae	skos:exactMatch	mesh:C000656825	tinea barbae	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
@@ -10132,49 +10133,141 @@ mondo:0001688	toxic optic neuropathy	skos:exactMatch	mesh:D000081028	Toxic Optic
 mondo:0002012	methylmalonic acidemia	skos:exactMatch	mesh:C537358	Methylmalonic acidemia	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0002648	mammary Paget disease	skos:exactMatch	mesh:D010144	Paget's Disease, Mammary	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0002814	adrenal carcinoma	skos:narrowMatch	mesh:D018268	Adrenocortical Carcinoma	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
+mondo:0003537	T lymphoblastic leukemia/lymphoma	skos:exactMatch	mesh:D054218	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0003684	clear cell chondrosarcoma	skos:exactMatch	mesh:D000077207	Chondrosarcoma, Clear Cell	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0003727	animal phobia	skos:exactMatch	mesh:C000719220	Zoophobia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0003748	flying phobia	skos:exactMatch	mesh:C000719189	Aerophobia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0003859	bilateral meningioma of optic nerve	skos:exactMatch	mesh:C000608854	Bilateral Optic Nerve Meningioma	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004286	pancreatic intraductal papillary-mucinous neoplasm	skos:exactMatch	mesh:D000077779	Pancreatic Intraductal Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004375	end stage renal failure	skos:exactMatch	mesh:D007676	Kidney Failure, Chronic	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004677	tinea nigra	skos:exactMatch	mesh:C000656904	tinea nigra	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004678	dermatophytosis	skos:exactMatch	mesh:D003881	Dermatomycoses	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004894	cyclotropia	skos:exactMatch	mesh:C000721272	cyclotropia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0004911	cardiovascular syphilis	skos:exactMatch	mesh:D013589	Syphilis, Cardiovascular	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005040	germ cell tumor	skos:narrowMatch	mesh:D009373	Neoplasms, Germ Cell and Embryonal	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005048	pancreatic insulin-producing neuroendocrine tumor	skos:exactMatch	mesh:D007340	Insulinoma	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0005161	human papilloma virus infection	skos:exactMatch	mesh:D030361	Papillomavirus Infections	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				
+mondo:0005177	serous cystadenoma	skos:exactMatch	mesh:D018293	Cystadenoma, Serous	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005197	thymus neoplasm	skos:exactMatch	mesh:D013953	Thymus Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005235	smoldering plasma cell myeloma	skos:exactMatch	mesh:D000075122	Smoldering Multiple Myeloma	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005238	round cell liposarcoma	skos:exactMatch	mesh:D018208	Liposarcoma, Myxoid	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005244	peripheral neuropathy	skos:exactMatch	mesh:D010523	Peripheral Nervous System Diseases	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005414	treatment-refractory schizophrenia	skos:exactMatch	mesh:D000090663	Schizophrenia, Treatment-Resistant	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005463	aortic valve calcification	skos:exactMatch	mesh:C562942	Aortic Valve, Calcification of	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005469	orthostatic hypotension	skos:exactMatch	mesh:D007024	Hypotension, Orthostatic	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005485	psychotic disorder	skos:exactMatch	mesh:D011618	Psychotic Disorders	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005497	bone development disease	skos:exactMatch	mesh:D001848	Bone Diseases, Developmental	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005515	oral cavity cancer	skos:exactMatch	mesh:D009062	Mouth Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005549	renal cell adenocarcinoma	skos:exactMatch	mesh:D002292	Carcinoma, Renal Cell	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0005586	head and neck neoplasm	skos:exactMatch	mesh:D006258	Head and Neck Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0005594	severe cutaneous adverse reaction	skos:exactMatch	mesh:D002921	Cicatrix	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
 mondo:0005607	chronic bronchitis	skos:exactMatch	mesh:D029481	Bronchitis, Chronic	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0006033	diffuse intrinsic pontine glioma	skos:exactMatch	mesh:D000080443	Diffuse Intrinsic Pontine Glioma	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0006065	lactose intolerance adult type	skos:exactMatch	mesh:C562601	Lactose Intolerance, Adult Type	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0006068	ACTH-producing pituitary gland adenoma	skos:exactMatch	mesh:D049913	ACTH-Secreting Pituitary Adenoma	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0006094	Askin tumor	skos:exactMatch	mesh:C563168	Askin Tumor	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0006130	central nervous system neoplasm	skos:exactMatch	mesh:D016543	Central Nervous System Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0006170	conjunctival disorder	skos:exactMatch	mesh:D003229	Conjunctival Diseases	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0006209	fibroblastic neoplasm	skos:narrowMatch	mesh:D005354	Fibrosarcoma	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
+mondo:0006424	soft tissue neoplasm	skos:exactMatch	mesh:D012983	Soft Tissue Neoplasms	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0006502	acute respiratory distress syndrome	skos:exactMatch	mesh:D012128	Respiratory Distress Syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0006527	anhidrosis	skos:exactMatch	mesh:D007007	Hypohidrosis	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0006536	congenital generalized lipodystrophy	skos:exactMatch	mesh:D052497	Lipodystrophy, Congenital Generalized	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007073	Hypoglossia-hypodactyly syndrome	skos:exactMatch	mesh:C535629	Hanhart syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007082	alopecia areata 1	skos:exactMatch	mesh:C566303	Alopecia Areata 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007088	Alzheimer disease type 1	skos:exactMatch	mesh:C536594	Alzheimer disease type 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0007105	frontotemporal dementia and/or amyotrophic lateral sclerosis 1	skos:exactMatch	mesh:C566288	Frontotemporal Dementia With Motor Neuron Disease	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007110	Diamond-Blackfan anemia 1	skos:exactMatch	mesh:C567302	Diamond-Blackfan Anemia 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007116	hereditary neurocutaneous angioma	skos:exactMatch	mesh:C536364	Angioma hereditary neurocutaneous	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
+mondo:0007152	arrhythmogenic right ventricular dysplasia 1	skos:exactMatch	mesh:C566254	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007158	arthrogryposis- oculomotor limitation-electroretinal anomalies syndrome	skos:exactMatch	mesh:C537737	Oculomelic amyoplasia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007172	atrial septal defect 1	skos:exactMatch	mesh:C566239	Atrial Septal Defect 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007232	autosomal dominant brachyolmia	skos:exactMatch	mesh:C562963	Brachyolmia Type 3	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007329	cirrhosis, familial	skos:exactMatch	mesh:C566123	Cirrhosis, Familial	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007390	coumarin resistance	skos:exactMatch	mesh:C563039	Coumarin Resistance	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0007432	cerebral arteriopathy with subcortical infarcts and leukoencephalopathy	skos:exactMatch	mesh:D046589	CADASIL	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007440	major affective disorder 1	skos:exactMatch	mesh:C565111	Major Affective Disorder 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0007453	maturity-onset diabetes of the young type 2	skos:exactMatch	mesh:C564219	Maturity-Onset Diabetes of the Young, Type 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007459	dilution, pigmentary	skos:exactMatch	mesh:C566872	Dilution, Pigmentary	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0007471	Doyne honeycomb retinal dystrophy	skos:exactMatch	mesh:C535602	Doyne honeycomb retinal dystrophy	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007478	autosomal dominant Kenny-Caffey syndrome	skos:exactMatch	mesh:C537020	Kenny-Caffey syndrome, type 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007493	torsion dystonia 4	skos:exactMatch	mesh:C536698	Whispering dysphonia, hereditary	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007495	dystonia 5	skos:exactMatch	mesh:C538007	Dystonia, Dopa-responsive	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007514	ectopia lentis 1, isolated, autosomal dominant	skos:exactMatch	mesh:C536184	Familial ectopia lentis	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007524	autosomal dominant Ehlers-Danlos syndrome, vascular type	skos:exactMatch	mesh:D000094623	Ehlers-Danlos Syndrome, Type IV	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007547	epidermoid cysts	skos:exactMatch	mesh:D004814	Epidermal Cyst	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0007572	primary familial polycythemia due to EPO receptor mutation	skos:exactMatch	mesh:C536842	Polycythemia, primary familial and congenital	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007578	esterase B	skos:exactMatch	mesh:C049262	esterase B	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007608	desmoid tumor	skos:exactMatch	mesh:D018222	Fibromatosis, Aggressive	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
 mondo:0007614	congenital fibrosis of extraocular muscles	skos:exactMatch	mesh:C580012	Congenital Fibrosis of the Extraocular Muscles	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
+mondo:0007662	anterior segment dysgenesis 4	skos:exactMatch	mesh:C535536	Iridogoniodysgenesis, dominant type	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007719	diaphragmatic hernia 1	skos:exactMatch	mesh:C564188	Diaphragmatic Hernia 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007743	attention deficit-hyperactivity disorder	skos:exactMatch	mesh:D001289	Attention Deficit Disorder with Hyperactivity	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007750	hypercholesterolemia, familial, 1	skos:exactMatch	mesh:D006938	Hyperlipoproteinemia Type II	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007759	hyperlipidemia, familial combined, LPL related	skos:exactMatch	mesh:D006950	Hyperlipidemia, Familial Combined	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0007764	autosomal dominant osteosclerosis, Worth type	skos:exactMatch	mesh:C536748	Worth syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007767	hyperparathyroidism 1	skos:exactMatch	mesh:C564166	Hyperparathyroidism 1	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				
+mondo:0007768	hyperparathyroidism 2 with jaw tumors	skos:exactMatch	mesh:C563273	Hyperparathyroidism 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0007794	hypogonadotropic hypogonadism 7 with or without anosmia	skos:exactMatch	mesh:C562785	Idiopathic Hypogonadotropic Hypogonadism	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
 mondo:0007817	IgE responsiveness, atopic	skos:exactMatch	mesh:C564133	Ige Responsiveness, Atopic	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007909	familial multiple lipomatosis	skos:exactMatch	mesh:D000071070	Familial Multiple Lipomatosis	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0007942	Mammastatin	skos:exactMatch	mesh:C060120	mammastatin	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008047	episodic ataxia type 1	skos:exactMatch	mesh:C563278	Episodic Ataxia, Type 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008049	myopathy, distal, infantile-onset	skos:exactMatch	mesh:C563543	Myopathy, Distal, with Onset in Infancy	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008062	narcolepsy 1	skos:exactMatch	mesh:C563534	Narcolepsy 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008097	linear nevus sebaceous syndrome	skos:exactMatch	mesh:D054000	Nevus, Sebaceous of Jadassohn	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008134	autosomal dominant optic atrophy, classic form	skos:exactMatch	mesh:D029241	Optic Atrophy, Autosomal Dominant	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008136	isolated optic nerve hypoplasia	skos:exactMatch	mesh:D000080344	Optic Nerve Hypoplasia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008161	otodental syndrome	skos:exactMatch	mesh:C563482	Otodental Dysplasia	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
 mondo:0008163	otofaciocervical syndrome	skos:exactMatch	mesh:C563481	Otofaciocervical Syndrome	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0008197	parietal foramina 1	skos:exactMatch	mesh:C566827	Parietal Foramina 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0008273	actinic prurigo	skos:exactMatch	mesh:C566780	Actinic Prurigo	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008316	thrombophilia due to protein C deficiency, autosomal dominant	skos:exactMatch	mesh:C567163	Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomal Dominant	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008328	glaucoma 1, open angle, P	skos:exactMatch	mesh:C566748	Glaucoma 1, Open Angle, P	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008397	aplasia of lacrimal and salivary glands	skos:exactMatch	mesh:C562407	Aplasia of Lacrimal and Salivary Glands	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008426	Shprintzen-Goldberg syndrome	skos:exactMatch	mesh:C537328	Shprintzen Golberg craniosynostosis	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008445	delayed speech-facial asymmetry-strabismus-ear lobe creases syndrome	skos:exactMatch	mesh:C536146	Mehes syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008453	adult-onset proximal spinal muscular atrophy, autosomal dominant	skos:exactMatch	mesh:C566673	Spinal Muscular Atrophy, Late-Onset, Finkel Type	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008464	split hand-foot malformation 1	skos:exactMatch	mesh:C574275	Ectrodactyly	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008465	Patterson-Stevenson-Fontaine syndrome	skos:exactMatch	mesh:C536311	Patterson Stevenson syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008476	spondyloepimetaphyseal dysplasia, Strudwick type	skos:exactMatch	mesh:C537501	Strudwick syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008485	sebocystomatosis	skos:exactMatch	mesh:C580471	Sebocystomatosis	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008527	tarsal coalition	skos:exactMatch	mesh:D000070604	Tarsal Coalition	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008534	generalized essential telangiectasia	skos:exactMatch	mesh:C562998	Telangiectasia, Generalized Essential	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008597	trichorhinophalangeal syndrome, type III	skos:exactMatch	mesh:C566033	Trichorhinophalangeal Syndrome, Type III	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0008612	tuberous sclerosis 1	skos:exactMatch	mesh:C565346	Tuberous Sclerosis 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008703	acromesomelic dysplasia 2A	skos:exactMatch	mesh:C536017	Achondrogenesis type 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008723	very long chain acyl-CoA dehydrogenase deficiency	skos:exactMatch	mesh:C536353	VLCAD deficiency	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008734	adrenocortical carcinoma, hereditary	skos:exactMatch	mesh:C565972	Adrenocortical Carcinoma, Hereditary	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0008738	aganglionosis, total intestinal	skos:exactMatch	mesh:C538058	Aganglionosis, total intestinal	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0008740	agnathia-otocephaly complex	skos:exactMatch	mesh:C562503	Otocephaly	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008764	Leber congenital amaurosis 1	skos:exactMatch	mesh:C536600	Amaurosis congenita of Leber, type 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008769	neuronal ceroid lipofuscinosis 2	skos:exactMatch	mesh:C566857	Ceroid Lipofuscinosis, Neuronal, 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008799	anophthalmia/microphthalmia-esophageal atresia syndrome	skos:exactMatch	mesh:C565948	Microphthalmia, Syndromic 3	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008822	arthrogryposis, renal dysfunction, and cholestasis 1	skos:exactMatch	mesh:C535382	Arthrogryposis renal dysfunction cholestasis syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008834	asthma, nasal polyps, and aspirin intolerance	skos:exactMatch	mesh:C565935	Asthma, Nasal Polyps, And Aspirin Intolerance	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008869	Seckel syndrome 1	skos:exactMatch	mesh:C537533	Seckel syndrome 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008871	microcephalic osteodysplastic primordial dwarfism type I	skos:exactMatch	mesh:C537577	Microcephalic osteodysplastic primordial dwarfism, type 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008915	dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome	skos:exactMatch	mesh:C535580	Najjar syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008915	dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome	skos:exactMatch	mesh:C535703	Malouf syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008926	COFS syndrome	skos:exactMatch	mesh:C536646	Pena Shokeir syndrome Type 2	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008955	cerebrooculofacioskeletal syndrome 1	skos:exactMatch	mesh:C562434	Cerebrooculofacioskeletal Syndrome 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0008972	rhizomelic chondrodysplasia punctata type 1	skos:exactMatch	mesh:C531651	Rhizomelic chondrodysplasia punctata, type 1	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0008990	cleft larynx, posterior	skos:exactMatch	mesh:C537851	Novak syndrome	semapv:ManualMappingCuration	orcid:0000-0002-1216-4761			generate_mondo_mesh_mappings.py	
 mondo:0009003	achromatopsia 2	skos:exactMatch	mesh:C536128	Achromatopsia 2	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0009032	cranioectodermal dysplasia	skos:exactMatch	mesh:C562966	Cranioectodermal Dysplasia	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0009043	generalized resistance to thyroid hormone	skos:exactMatch	mesh:D018382	Thyroid Hormone Resistance Syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0009097	persistent hyperplastic primary vitreous, autosomal recessive	skos:exactMatch	mesh:C566966	Persistent Hyperplastic Primary Vitreous, Autosomal Recessive	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				
+mondo:0009105	trichohepatoenteric syndrome	skos:exactMatch	mesh:C565627	Trichohepatoenteric Syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
+mondo:0009111	dihydropyrimidinuria	skos:exactMatch	mesh:C562815	Dihydropyrimidinase Deficiency	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0009130	Dyggve-Melchior-Clausen disease	skos:exactMatch	mesh:C535726	Dyggve-Melchior-Clausen syndrome	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0009175	eosinophilic fasciitis	skos:exactMatch	mesh:C562487	Eosinophilic Fasciitis	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0009180	junctional epidermolysis bullosa, non-Herlitz type	skos:exactMatch	mesh:C562639	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0009202	Thakker-Donnai syndrome	skos:exactMatch	mesh:C536503	Thakker Donnai syndrome	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0009220	visceral steatosis, congenital	skos:exactMatch	mesh:C536351	Visceral Steatosis, Congenital	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0009229	hyaline fibromatosis syndrome	skos:exactMatch	mesh:D057770	Hyaline Fibromatosis Syndrome	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0009263	gapo syndrome	skos:exactMatch	mesh:C535642	Growth retardation, Alopecia, Pseudoanodontia and Optic atrophy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:0009361	autosomal recessive hydrocephalus due to congenital stenosis of aqueduct of Sylvius	skos:exactMatch	mesh:C536078	Hydrocephalus, X-linked	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:0009488	keratoconus posticus circumscriptus	skos:exactMatch	mesh:C536151	Keratoconus posticus circumscriptus	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0009503	pyruvate dehydrogenase E3-binding protein deficiency	skos:exactMatch	mesh:C565447	Pyruvate Dehydrogenase E3-Binding Protein Deficiency	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0009526	fibular aplasia, tibial campomelia, and oligosyndactyly syndrome	skos:exactMatch	mesh:C565436	Fibular Aplasia, Tibial Campomelia, and Oligosyndactyly Syndrome	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
@@ -10337,6 +10430,7 @@ mondo:0600008	cytokine release syndrome	skos:exactMatch	mesh:D000080424	Cytokine
 mondo:0700064	aneuploidy	skos:exactMatch	mesh:D000782	Aneuploidy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0700065	trisomy	skos:exactMatch	mesh:D014314	Trisomy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:0700086	uniparental disomy	skos:exactMatch	mesh:D024182	Uniparental Disomy	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
+mondo:1060199	hemorrhagic stroke	skos:exactMatch	mesh:D000083302	Hemorrhagic Stroke	semapv:ManualMappingCuration	orcid:0000-0002-7941-5545				2026-07-15
 mondo:8000018	benign paroxysmal positional vertigo	skos:exactMatch	mesh:D065635	Benign Paroxysmal Positional Vertigo	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 mondo:8000019	vertigo, benign recurrent, 1	skos:exactMatch	mesh:C567620	Vertigo, Benign Recurrent, 1	semapv:ManualMappingCuration	orcid:0000-0001-9439-5346				
 ncit:C1707	Voriconazole	skos:exactMatch	chebi:10023	voriconazole	semapv:ManualMappingCuration	orcid:0000-0003-4423-4370				
